@@ -53,3 +53,4 @@ summarize(to_sea, mean = mean(gain_in_air, na.rm = T))
 # of those flights? Bonus: use pipes to answer this question in one statement
 # (without showing any other data)!
 
+
